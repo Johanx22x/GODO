@@ -9,7 +9,6 @@ import (
 
     "github.com/bwmarrin/discordgo"
     "github.com/Johanx22x/GODO"
-    // "github.com/Johanx22x/GODO/internal/handler"
     "github.com/Johanx22x/GODO/internal/commands"
 )
 
